@@ -6,7 +6,7 @@ cask "key54" do
       verified: "github.com/grokcodile/key54/"
   name "Key54"
   desc "Bind an app to the right Command key for quick toggling"
-  homepage "https://key54.app"
+  homepage "https://key54.app/"
 
   livecheck do
     url :url
@@ -14,7 +14,7 @@ cask "key54" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Key54.app"
 
