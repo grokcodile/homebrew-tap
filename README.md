@@ -1,19 +1,25 @@
 # homebrew-tap
 
-Homebrew tap for [Key54](https://key54.app) — bind one app to the right Command key.
+Homebrew tap for apps by [grokcodile](https://github.com/grokcodile).
 
 ## Install
 
 ```sh
-brew install --cask grokcodile/tap/key54
+brew install --cask grokcodile/tap/<app>
 ```
 
-(Equivalently: `brew tap grokcodile/tap` then `brew install --cask key54`.)
-
-## Update
+…or tap once, then install by name:
 
 ```sh
-brew upgrade --cask key54
+brew tap grokcodile/tap
+brew install --cask <app>
 ```
 
-The cask is kept in sync with each [Key54 release](https://github.com/grokcodile/key54/releases) automatically.
+Update with `brew upgrade` (or `brew upgrade --cask <app>` for just one). Each
+cask tracks that app's latest release automatically.
+
+## Apps
+
+| App | What it does | Links |
+| --- | --- | --- |
+| **Key54** | Bind one app to the right Command (⌘) key — hold to summon it, hold again to switch back. | [Website](https://key54.app) · [Repo](https://github.com/grokcodile/key54) |
