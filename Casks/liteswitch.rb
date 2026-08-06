@@ -1,8 +1,8 @@
 cask "liteswitch" do
-  version "0.3"
-  sha256 "b866c56753ccc07a4ee69b538ce8b8225581c0166170ad3b90359f9a93b3136e"
+  version "0.4"
+  sha256 "02ad066b8fdff9681d3b6a3aefa8e0b77900ba5dacdd029d71fa3f6fe308c9cb"
 
-  url "https://github.com/grokcodile/liteswitch/releases/download/v#{version}/Liteswitch.zip",
+  url "https://github.com/grokcodile/liteswitch/releases/download/v#{version}/Liteswitch.dmg",
       verified: "github.com/grokcodile/liteswitch/"
   name "Liteswitch"
   desc "Keyboard shortcuts for built-in system features that are hard to reach"
