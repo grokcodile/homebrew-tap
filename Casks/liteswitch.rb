@@ -1,6 +1,6 @@
 cask "liteswitch" do
-  version "0.7"
-  sha256 "075e07c82680aed6e8baa545c4443a13d38802c946fa15535fd2b21a248ba6c5"
+  version "0.8"
+  sha256 "be3b9608a8888165510b5c34560e30e71ad3a8dbfe6021020e74db0251e95505"
 
   url "https://github.com/grokcodile/liteswitch/releases/download/v#{version}/Liteswitch.dmg",
       verified: "github.com/grokcodile/liteswitch/"
