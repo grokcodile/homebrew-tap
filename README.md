@@ -23,4 +23,4 @@ cask tracks that app's latest release automatically.
 | App | What it does | Links |
 | --- | --- | --- |
 | **Key54** | Bind one app to the right Command (⌘) key — hold to summon it, hold again to switch back. | [Website](https://key54.app) · [Repo](https://github.com/grokcodile/key54) |
-| **Liteswitch** | Twelve features macOS already has — Spotlight's panels, OCR, dictation, on-device rewriting — each on a keyboard shortcut. | [Website](https://grokcodile.github.io/liteswitch/) · [Repo](https://github.com/grokcodile/liteswitch) |
+| **Pullcord** | Twelve features macOS already has — Spotlight's panels, OCR, dictation, on-device rewriting — each on a keyboard shortcut. | [Website](https://pullcord.app) · [Repo](https://github.com/grokcodile/pullcord) |
