@@ -1,6 +1,6 @@
 cask "pullcord" do
-  version "1.12"
-  sha256 "f815bc09bc15515f2bc1475bac5bd2aa86e4ffddac3da8b6bdfe0f715996927f"
+  version "1.13"
+  sha256 "e8b2a523a8a7382a404c23316d89b3fc55d9208b373acfc5176c8b47f51673d7"
 
   url "https://github.com/grokcodile/pullcord/releases/download/v#{version}/Pullcord.dmg",
       verified: "github.com/grokcodile/pullcord/"
