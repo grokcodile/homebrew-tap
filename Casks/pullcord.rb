@@ -1,9 +1,8 @@
 cask "pullcord" do
-  version "1.8"
-  sha256 "9384ab761c197dcedeeb05350cc131aba0ceea71f979985d28e9f89ac0e50ec6"
+  version "1.28"
+  sha256 "eb4691da6c6d3c1b1fbddfc23187c017fbc7bb774a61e9d703c9e160655eefde"
 
-  url "https://github.com/grokcodile/pullcord/releases/download/v#{version}/Pullcord.dmg",
-      verified: "github.com/grokcodile/pullcord/"
+  url "https://github.com/grokcodile/pullcord/releases/download/v#{version}/Pullcord.dmg"
   name "Pullcord"
   desc "Keyboard shortcuts for built-in system features that are hard to reach"
   homepage "https://pullcord.app/"

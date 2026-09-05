@@ -23,4 +23,4 @@ cask tracks that app's latest release automatically.
 | App | What it does | Links |
 | --- | --- | --- |
 | **Key54** | Bind one app to the right Command (⌘) key — hold to summon it, hold again to switch back. | [Website](https://key54.app) · [Repo](https://github.com/grokcodile/key54) |
-| **Pullcord** | Twelve features macOS already has — Spotlight's panels, OCR, dictation, on-device rewriting — each on a keyboard shortcut. | [Website](https://pullcord.app) · [Repo](https://github.com/grokcodile/pullcord) |
+| **Pullcord** | The most powerful things macOS can do are often the hardest to reach — Pullcord puts them at your fingertips. | [Website](https://pullcord.app) · [Repo](https://github.com/grokcodile/pullcord) |
