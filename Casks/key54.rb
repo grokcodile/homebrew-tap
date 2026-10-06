@@ -1,6 +1,6 @@
 cask "key54" do
-  version "1.49"
-  sha256 "24c7818da51f95baddd79b72e4ab5ff854fd7da7cebdf5b8a4630db499fae1ca"
+  version "1.50"
+  sha256 "8ec45c5765440b46d5658758d376559236615fbb48840c5c6a113c3d24f14fa2"
 
   url "https://github.com/grokcodile/key54/releases/download/v#{version}/Key54.dmg"
   name "Key54"
@@ -13,7 +13,7 @@ cask "key54" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: :ventura
+  depends_on macos: :tahoe
 
   app "Key54.app"
 
