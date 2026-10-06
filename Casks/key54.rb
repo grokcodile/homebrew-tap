@@ -1,6 +1,6 @@
 cask "key54" do
-  version "1.47"
-  sha256 "7019c737314c2f23d4d0ad30e6e0a5780d026c611c3b00747a896605ecaeb502"
+  version "1.48"
+  sha256 "3bf1d45035dc9d507c4776514ad694415eae3b8fbba38d2cafdaac5adf1c7349"
 
   url "https://github.com/grokcodile/key54/releases/download/v#{version}/Key54.dmg"
   name "Key54"
